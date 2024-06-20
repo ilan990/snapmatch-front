@@ -24,7 +24,7 @@ Pour installer et exécuter localement ce projet :
 
 1. Clonez ce repository :
    ```bash
-   git clone https://github.com/votre_utilisateur/votre_projet.git](https://github.com/ilan990/snapmatch-front.git
+   git clone https://github.com/ilan990/snapmatch-front.git
   
 2. Accédez au répertoire du projet :
    ```bash
@@ -38,7 +38,7 @@ Cette commande va installer toutes les dépendances requises pour le projet. Ass
 
 Démarrez l'application en mode développement :
 
-Copier le code
+
 ```bash
 npm start
 ```
